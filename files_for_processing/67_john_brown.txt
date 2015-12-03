@@ -1,0 +1,5 @@
+"The act of focusing our mightiest intellectual resources on the
+ elusive goal of goto-less programs has helped us get our minds
+ off all those really tough and possibly unresolvable problems
+ and issues with which today's professional programmer would
+ otherwise have to grapple." -- John Brown

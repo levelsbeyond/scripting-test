@@ -1,0 +1,4 @@
+"Organizations which design systems are constrained to produce
+ designs which are copies of the communication structures of these
+ organizations. (For example, if you have four groups working on
+ a compiler, you�ll get a 4-pass compiler)" -- Conway�s Law

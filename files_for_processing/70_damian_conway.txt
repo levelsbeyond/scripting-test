@@ -1,0 +1,2 @@
+"C++ tries to guard against Murphy, not Machiavelli."
+ -- Damian Conway

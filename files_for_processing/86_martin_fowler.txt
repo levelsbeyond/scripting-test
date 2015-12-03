@@ -1,0 +1,3 @@
+"Comparing to another activity is useful if it helps you formulate
+ questions, it's dangerous when you use it to justify answers."
+ -- Martin Fowler

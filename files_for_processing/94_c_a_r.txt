@@ -1,0 +1,2 @@
+"The unavoidable price of reliability is simplicity."
+ -- C.A.R. Hoare

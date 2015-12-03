@@ -1,0 +1,1 @@
+"An API that isn't comprehensible isn't usable." -- James Gosling

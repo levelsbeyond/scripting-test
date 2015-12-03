@@ -1,0 +1,3 @@
+"If there's one thing worse than a program that doesn't work
+ when it should, it's a program that does work when it shouldn't."
+ -- Bob Archer
