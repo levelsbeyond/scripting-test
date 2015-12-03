@@ -1,6 +1,6 @@
 #Levels Beyond Scripting Test
 
-Write script that processes all of the files in a directory. Inside this directory, some files start with a number then an underscore:
+Write a script that processes all of the files in a directory. Inside this directory, some files start with a number followed by an underscore:
 
 ```
 10_someStuff.txt
@@ -12,7 +12,7 @@ Some don't:
 SomeMoreStuff.txt
 ```
 
-I want a script that accepts a path to this directory, then makes three sub-directories in it:
+I want a script that accepts a path to this directory, then creates three sub-directories inside it:
 
 1. fizz/
 2. buzz/
@@ -20,9 +20,9 @@ I want a script that accepts a path to this directory, then makes three sub-dire
 
 For Each file in the directory, do one of four things:
 
-1. If the leading number is a multiple of three, copy the file into the 'fizz/' directory
-2. If the leading number is a multiple of 5, copy the file into the 'buzz/' directory
-3. If the leading number is a multiple of both 3 and 5, copy the file into the 'fizzbuzz/' directory.
+1. If the leading number is a multiple of three, copy the file into the `fizz/` directory
+2. If the leading number is a multiple of 5, copy the file into the `buzz/` directory
+3. If the leading number is a multiple of both 3 and 5, copy the file into the `fizzbuzz/` directory.
 4. If the file does not start with a number, or that number is not divisible by 3 or 5, then print the name of that file to standard output.
 
 Use any scripting language you want, and provide instructions to execute your script. I should be able to run it easily:
@@ -31,7 +31,7 @@ Use any scripting language you want, and provide instructions to execute your sc
 /path/to/your/script /path/to/directory/of/files
 ```
 
-This project contains a directory, 'files_for_processing', that you should use to develop your script.
+This project contains a directory, 'files_for_processing', that you can use to develop and test your script.
 
 ##Bonus
 
